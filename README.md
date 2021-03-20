@@ -2,6 +2,10 @@
 
 Motif bulucu, metin dosyasında tek satır olarak kaydedilmiş genom sekanslarını istenilen 'k-mer'ler halinde veri tabanına kaydedebilen ve bu kayıtlar üzerinde sorgu yapabilen bir programdır. 
 
+### Çalışma Arkadaşlarım
+Deniz EFE: https://github.com/efedeniz
+Rufat Arzumanov: https://github.com/therufet721
+
 ### Gereklilikler
 * Qt 5+
 * SQLite
